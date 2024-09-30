@@ -1,0 +1,14 @@
+<svg width="113.5" height="20" viewBox="0 0 1135 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="CDN: Cloudflare">
+  <title>CDN: Cloudflare</title>
+  <g>
+    <rect fill="#555" width="474" height="200"/>
+    <rect fill="#E43" x="474" width="661" height="200"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="190" y="148" textLength="244" fill="#000" opacity="0.1">CDN</text>
+    <text x="180" y="138" textLength="244">CDN</text>
+    <text x="529" y="148" textLength="561" fill="#000" opacity="0.1">Cloudflare</text>
+    <text x="519" y="138" textLength="561">Cloudflare</text>
+  </g>
+  <image x="40" y="35" width="100" height="132" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyODAgMjgwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTcyIDJsLTM5IDEwMXMwIDUgNSA1aDEwMXMwIDIgMyA1TDkzIDI3OGMtMy0yLTMtNS0zLTdsNTItMTExdi0xMEgzOHYtMTBMMTY1IDJoN3oiLz48L3N2Zz4K"/>
+</svg>
